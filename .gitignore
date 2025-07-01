@@ -1,0 +1,8 @@
+# .gitignore
+/.env
+/vendor/
+*.log
+*.cache
+/tcpdf/cache/
+/node_modules/
+/.DS_Store
